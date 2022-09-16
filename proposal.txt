@@ -1,0 +1,19 @@
+PROPOSAL.pdf (400-600 words):
+A description of the problem you wish to solve or the application you wish to develop, and, more specifically, what you plan to demonstrate at the end of this project.
+
+
+How it is important, interesting, and/or useful; and how it involves data management.
+
+
+Initial thoughts on how to approach the problem or build the application, including the preliminary system architecture and the platform you plan to use.
+
+
+Survey of previous and/or related work and systems, including discussions of how they relate to your problem as well as their limitations and/or flaws.
+
+
+Hey Professor and Alex,
+
+My group and I are really excited at the prospect of doing a custom project, however, we are struggling to find our fifth member. I was planning on asking around in class this week but I have been out with covid. If we are unable to find our fifth by tomorrow, would it be possible for you guys to assign someone to our group, or for us to do the project with 4 people? Working on a custom project together is part of why we're so excited about this class, and we would hate to get split up. Thanks for any help you can give.
+
+Best,
+Christopher Hall and crew
