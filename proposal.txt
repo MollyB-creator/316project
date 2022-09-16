@@ -1,6 +1,6 @@
-PROPOSAL.pdf (400-600 words):
 A description of the problem you wish to solve or the application you wish to develop, and, more specifically, what you plan to demonstrate at the end of this project.
 
+Our plan is to undertake an almost standard project, creating a website that allows users to explore information about the hobby of board gaming, with a specific focus on those who are newer to the hobby. By the end of the project we want to have developed a robust backend with efficient data storage solutions, an API layer to expose this backend to the public, and a user friendly front end that allows users to easily obtain and analyze the data they are presented with.
 
 How it is important, interesting, and/or useful; and how it involves data management.
 
@@ -8,13 +8,8 @@ Board games have expanded far beyond the scale of family Monopoly night and simp
 
 Initial thoughts on how to approach the problem or build the application, including the preliminary system architecture and the platform you plan to use.
 
+While at least two of our group have experience working with various web technologies, we at this point are planning on following the architecture proposed by the standard project. If at some point in the future we find that our project would benefit from a tweak in said architecture, we will discuss the merits of both be for making the change or not. Regardless, at the moment we plan to use Python, Flask, and PostgreSQL for our project.
 
 Survey of previous and/or related work and systems, including discussions of how they relate to your problem as well as their limitations and/or flaws.
 
-
-Hey Professor and Alex,
-
-My group and I are really excited at the prospect of doing a custom project, however, we are struggling to find our fifth member. I was planning on asking around in class this week but I have been out with covid. If we are unable to find our fifth by tomorrow, would it be possible for you guys to assign someone to our group, or for us to do the project with 4 people? Working on a custom project together is part of why we're so excited about this class, and we would hate to get split up. Thanks for any help you can give.
-
-Best,
-Christopher Hall and crew
+https://boardgamegeek.com/ (BGG) is the place to go for information about board games. The amount of information on the site, however, could be overwhelming or unintuitive to someone new to the hobby. We want to emulate BGG in some ways such as keeping info on rankings and mechanics, but present it in such a way that new board gamers have an easier time processing the info. Something we would also like to add is what a good pathing might look like in regards to what games would on ramp new gamers into the hobby most effectively, which could lend itself to some cool visualizations. BGG has a lot of data that we will probably be pulling from in order to populate our site as well.
