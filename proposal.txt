@@ -36,9 +36,10 @@ Current Specs
 - Games with logged plays are automatically collected into a collection for the user
 
 ## Commendations and Recommendations
-- Users have one commendation that they can give per day to a published collection. These commendations are given based on the list being especially well tuned to whatever the list sought out to be. Once the commendation is sent, it should be subtracted from the users account, while being added to the commendation count of the published collection.
+- Users can give a commendation to a published collection. These commendations are given based on the list being especially well tuned to whatever the list sought out to be. 
 - Recommendations will have two forms, 
  - low complexity games for each type of mechanics
+  - These will be there to onramp new players with easy games
  - Recommendations that are auto generated based upon the current contents of a collection
   - More games like these
   - Make this collection more well rounded
@@ -49,6 +50,7 @@ Current Specs
 - Similar to collections, but angled towards actual physical collections
 - Keep track of what games and how many of them are in the collection
 - take note of what games are in storage, and which are checked out and with whom
+- when a game is checked out it should be subtracted from the games that are left in the library
 
 ## Feedback / Messaging
 - A user can submit a single rating/review for a game. The submission link will be incorporated in the detailed product page (see Products). The user cannot submit multiple ratings/reviews for the same product, but can edit/remove any existing ratings/reviews by this user.
