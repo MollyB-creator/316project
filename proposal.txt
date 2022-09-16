@@ -45,7 +45,12 @@ Current Specs
   - What type of group is this collection best suited for currently
   - etc
 
-Feedback / Messaging
+## Libraries
+- Similar to collections, but angled towards actual physical collections
+- Keep track of what games and how many of them are in the collection
+- take note of what games are in storage, and which are checked out and with whom
+
+## Feedback / Messaging
 - A user can submit a single rating/review for a game. The submission link will be incorporated in the detailed product page (see Products). The user cannot submit multiple ratings/reviews for the same product, but can edit/remove any existing ratings/reviews by this user.
 - A user can submit a single rating/review for a publisher, provided that the user has played something from the publisher. Incorporate the submission link in appropriate places in the website, e.g., and the public view of a publisher. Again, the user cannot submit multiple ratings/reviews for the same seller, but an existing rating/review can be edited or removed.
 - Each user should be able to list all ratings/reviews authored by this user, sorted in reverse chronological order by default. From this interface the user should be able then select ratings/reviews to update. Incorporate the link to this interface in user account view (see Account / Purchases).
