@@ -4,6 +4,7 @@ A description of the problem you wish to solve or the application you wish to de
 
 How it is important, interesting, and/or useful; and how it involves data management.
 
+Board games have expanded far beyond the scale of family Monopoly night and simple card games in recent times. As an example of just how large this hobby has grown we need not look further than GenCon: the worlds largest board game convention. GenCon had almost 70,000 attendees in 2019, a number that other conventions such as UK Games Expo in the UK, Essen Spiel in Germany, and Games Market in Japan are inching towards in their own right. This explosion in popularity has of course been mirrored by an explosion of new board games. There are hundreds of new games that come out each year, each with designers, publishers, and artists who make them happen. Not only that, board games often utilize core mechanics seen in other games prior, such as worker placement or hand management to name a couple. All of this information lend board games to be a perfect topic for our databases project. 
 
 Initial thoughts on how to approach the problem or build the application, including the preliminary system architecture and the platform you plan to use.
 
