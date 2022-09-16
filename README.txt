@@ -5,4 +5,4 @@ Contributors:
 Christopher Hall 
 Kegan Lovell
 Molly Borowiak
-Adam
+Adam Kosinski
