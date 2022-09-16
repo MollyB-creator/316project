@@ -13,3 +13,20 @@ While at least two of our group have experience working with various web technol
 Survey of previous and/or related work and systems, including discussions of how they relate to your problem as well as their limitations and/or flaws.
 
 https://boardgamegeek.com/ (BGG) is the place to go for information about board games. The amount of information on the site, however, could be overwhelming or unintuitive to someone new to the hobby. We want to emulate BGG in some ways such as keeping info on rankings and mechanics, but present it in such a way that new board gamers have an easier time processing the info. Something we would also like to add is what a good pathing might look like in regards to what games would on ramp new gamers into the hobby most effectively, which could lend itself to some cool visualizations. BGG has a lot of data that we will probably be pulling from in order to populate our site as well.
+
+Current Specs
+
+## Users
+- A new user can register for a new account; an existing user can log in using email and password.
+- Each user account has a system-assigned id. Other account information includes email, username, and password. Users can update all information except the id. Ensure that email is unique among all users.
+- Users can add games to their collections, which will have an associated date 
+- Users can browse their history of additions to various collections, sorted in reverse chronological order by default. For each game in this list, show a summary and link to the detailed game page.
+- Provide a public view for a user. It will show the account number and name as well as any other summary information you deem necessary. If the user also acts as a designer/artist/etc, show also email, address, and include a section with all reviews for this position.
+
+## Games
+- There is a list of predefined game mechanics, and each product belongs to one or more categories.
+- At the minimum, a game should have a name, a description, an image, player count, complexity, length, and rating.
+- Users can browse and search/filter all games. For each game in the result list, show a summary (e.g., image, name, average review rating, etc.) and link to the detailed game page. At the minimum, support browsing by category, searching by keywords in name/description, and sorting by rating.
+- A detailed game page will show all details for the product, together with a list of sellers and their current quantities in stock. For each seller, provide an interface for adding a specific quantity of the product from this seller to the user’s cart (see Cart / Order). The page should also include a section showing all reviews for this product (see Feedback / Messaging).
+Users can create new products for sale. The user who created a product will be able to edit the product information.
+
