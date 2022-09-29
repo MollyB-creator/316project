@@ -20,7 +20,7 @@ Aryan Mathur
 2. Run `conda activate cs316`
 3. Run `pip install -r requirements.txt`
 4. Run `export FLASK_APP=flask_template.py` if on Mac
-   Run `C:\path\to\app>set FLASK_APP=flask_template.py`
+   Within the directory, run `set FLASK_APP=flask_template.py` if on Windows
 5. Run `flask run`
 4. Run `python seed_test_db.py`
 
