@@ -16,8 +16,7 @@ Aryan Mathur
 # CS 316 Flask Application Example
 
 ### Starting the App
-1. activate a new virtual environment using either venv or conda (python 3.7.4)
-  * example `conda create --name cs316 python=3.9.7`
+1. Run `conda create --name cs316 python=3.9.7`
 2. once the environment is active, run `pip install -r requirements.txt`
 3. 
   * Mac/Linux: from the root of the project run `export FLASK_APP=flask_template.py` followed by `flask run`
