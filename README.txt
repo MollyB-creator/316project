@@ -17,13 +17,12 @@ Aryan Mathur
 
 ### Starting the App
 1. Run `conda create --name cs316 python=3.9.7`
-2. once the environment is active, run `pip install -r requirements.txt`
-3. 
-  * Mac/Linux: from the root of the project run `export FLASK_APP=flask_template.py` followed by `flask run`
-
-  * Windows: in the command prompt run `C:\path\to\app>set FLASK_APP=flask_template.py` followed by `flask run`
-
-4. run `python seed_test_db.py`
+2. Run `conda activate cs316`
+3. Run `pip install -r requirements.txt`
+4. Run `export FLASK_APP=flask_template.py` if on Mac
+   Run `C:\path\to\app>set FLASK_APP=flask_template.py`
+5. Run `flask run`
+4. Run `python seed_test_db.py`
 
 
 For deployment
