@@ -1,3 +1,6 @@
+### NOTE: This is outdated, refer to the proposal in the drive (which is changing as we refine it):
+https://docs.google.com/document/d/1pGp7vwe8GfpVg5rAeKxUGMDmRpF3Hcn-P6IHzf4woTg/edit
+
 A description of the problem you wish to solve or the application you wish to develop, and, more specifically, what you plan to demonstrate at the end of this project.
 
 Our plan is to undertake an almost standard project, creating a website that allows users to explore information about the hobby of board gaming, with a specific focus on those who are newer to the hobby. By the end of the project we want to have developed a robust backend with efficient data storage solutions, an API layer to expose this backend to the public, and a user friendly front end that allows users to easily obtain and analyze the data they are presented with.
